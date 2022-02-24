@@ -3,7 +3,7 @@ print("My name is: " + Name)
 print(type(Name))
 
 Age = input()
-print("I am " + str(Age) + " years")
+print('I am ', Age, ' years')
 print(type(int(Age)))
 
 Address = input()
