@@ -4,7 +4,7 @@ print(type(Name))
 
 Age = input()
 print("I am " + str(Age) + " years")
-print(type(Age))
+print(type(int(Age)))
 
 Address = input()
 print("I live in "+ Address)
