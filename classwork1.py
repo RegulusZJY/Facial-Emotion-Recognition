@@ -2,9 +2,9 @@ Name = input()
 print("My name is: " + Name)
 print(type(Name))
 
-Age = input()
+Age = int(input())
 print('I am ', Age, ' years')
-print(type(int(Age)))
+print((type(Age)))
 
 Address = input()
 print("I live in "+ Address)
