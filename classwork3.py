@@ -4,7 +4,7 @@
 # Define Person class:
 class Person:
     
-    # Person Attributes
+    # Person Attributes (Constructor function to initiate the variables)
     def __init__(self):
         # Name is string
         self.Name = ''
