@@ -1,0 +1,5 @@
+data source:
+
+https://www.kaggle.com/datasets/msambare/fer2013
+
+https://www.kaggle.com/datasets/debanga/facial-expression-recognition-challenges

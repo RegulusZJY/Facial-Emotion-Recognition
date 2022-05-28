@@ -1,0 +1,2 @@
+Please open New_Train_History folder to check our latest model loss and accuracy, which shows a very high accuracy, thanks to the increase of data sets.
+The old one is shown in our presentation on 5.22, and it is difficult to continue to improve after the accuracy reaches 60%.
