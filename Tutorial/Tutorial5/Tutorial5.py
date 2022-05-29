@@ -1,7 +1,6 @@
 '''
     Zhang Junyan, 1129832
     Lin Qingxin, 1098238
-    Jin Lu, 
 '''
 import re
 string1 = "abb29ABCLK%lCnrDBCabbbb"
