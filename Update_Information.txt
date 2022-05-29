@@ -1,5 +1,0 @@
-Project-W01_Group10 contains all related work to our final project.
-
-Tutorial contains all tutorial codes and their output screenshots.
-
-You can see history that codes are written before and the folder are created for organize and arrange thoese files.
