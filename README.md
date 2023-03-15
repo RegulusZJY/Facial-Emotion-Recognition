@@ -1,3 +1,2 @@
-# CPS-3320
-## Group member
-  Zhang Junyan
+# Facial Emotion Recognition
+## Python
