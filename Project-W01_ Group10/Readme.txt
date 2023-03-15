@@ -1,8 +1,3 @@
-Group member:
-Zhang Junyan, 1129832
-Lin Qingxin, 1098238
-Jin Lu, 1098209
-
 Description:
 Our faces have complex emotions. Our program can recognize our facial emotions and give the probability of having these emotions.
 
